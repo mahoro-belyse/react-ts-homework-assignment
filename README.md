@@ -27,8 +27,8 @@ Each project is independent. Make sure you have [Node.js](https://nodejs.org/) i
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/visit-rwanda-profilecard.git
-   cd visit-rwanda-profilecard
+   git clone https://github.com/mahoro-belyse/react-ts-homework-assignment.git
+   cd assignment
   2. Run Visit rwanda
      ```
      cd visit-rwanda
