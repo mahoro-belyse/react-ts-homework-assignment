@@ -30,12 +30,14 @@ Each project is independent. Make sure you have [Node.js](https://nodejs.org/) i
    git clone https://github.com/yourusername/visit-rwanda-profilecard.git
    cd visit-rwanda-profilecard
   2. Run Visit rwanda
+     ```
      cd visit-rwanda
      npm install
      npm run dev
 
   3.  Run Profile card
-      cd ../profilecard
+     
+     cd ../profilecard
       npm install
       npm run dev
 
